@@ -17,7 +17,7 @@
 <img align= "center" alt= "PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></div><br/>
 
 
-###Estudo Inglês, Java e PostgreSQL neste momento.
+###Estudo HTML, CSS e JavaScript neste momento. Estou fazendo a base para programar com ReactJS e NodeJS.
 
 Irei contar uma breve história, me Chamo Renato, tenho 31 anos. Ex estudante de administração 4° semestre e consultor de vendas, ex empresário e administrador do meu próprio negócio, resolvi sair da minha zona de conforto e trocar de curso, me aperfeiçoar e poder fazer parte desta grande transformação digital. 
 Sou apaixonado por tecnologia, quando me perguntavam o que realmente eu gostava de fazer, pensava que tinha algo de errado comigo, nunca soube responder esta pergunta.
