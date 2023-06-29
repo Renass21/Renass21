@@ -22,4 +22,4 @@
 Irei contar uma breve história, me Chamo Renato, tenho 31 anos. Ex estudante de administração 4° semestre e consultor de vendas, ex empresário e administrador do meu próprio negócio, resolvi sair da minha zona de conforto e trocar de curso, me aperfeiçoar e poder fazer parte desta grande transformação digital. 
 Sou apaixonado por tecnologia, quando me perguntavam o que realmente eu gostava de fazer, pensava que tinha algo de errado comigo, nunca soube responder esta pergunta.
 Até conhecer o mundo da programação. Nem tudo são flores, nem tudo é facil, ainda mais quando se tem 31 anos, querer migrar de profissão e achar que está velho demais para mudar, mas isso não foi mais forte que eu, minha motivação diária, minha força de vontade é maior do que qualquer obstáculo que possa surgir no meu caminho.
-Hoje tenho brilho nos olhos novamente e a esperança gigante de poder trabalhar com o que descobri ser minha paixão:a programação.
+Hoje tenho brilho nos olhos novamente e a esperança gigante de poder trabalhar com o que descobri ser minha paixão: a programação.
