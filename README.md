@@ -23,9 +23,18 @@
 </div><br/>
 
 
-###Estudo HTML, CSS e JavaScript neste momento. Estou fazendo a base para programar com ReactJS e NodeJS.
+Sou estudante de Engenharia de software e atualmente estou na 15ª turma do Programa Starter Full
+Stack da Growdev.
+Meu objetivo é ingressar na área de desenvolvimento de software.
+Minhas Soft Skills são embasadas em trabalhar em equipe, facilidade em aprender, proatividade,
+agilidade, facilidade em se comunicar e habituado a ajudar solucionar problemas em conjunto.
 
-Irei contar uma breve história, me Chamo Renato, tenho 31 anos. Ex estudante de administração 4° semestre e consultor de vendas, ex empresário e administrador do meu próprio negócio, resolvi sair da minha zona de conforto e trocar de curso, me aperfeiçoar e poder fazer parte desta grande transformação digital. 
-Sou apaixonado por tecnologia, quando me perguntavam o que realmente eu gostava de fazer, pensava que tinha algo de errado comigo, nunca soube responder esta pergunta.
-Até conhecer o mundo da programação. Nem tudo são flores, nem tudo é facil, ainda mais quando se tem 31 anos, querer migrar de profissão e achar que está velho demais para mudar, mas isso não foi mais forte que eu, minha motivação diária, minha força de vontade é maior do que qualquer obstáculo que possa surgir no meu caminho.
-Hoje tenho brilho nos olhos novamente e a esperança gigante de poder trabalhar com o que descobri ser minha paixão: a programação.
+Hard Skills:
+
+➔ Conhecimento em HTML, CSS e Javascript, manipulação do Dom, consumo de API’s REST com Axios e Express, Bootstrap, Typescript e 
+no momento estou estudando ReactJS. Estou seguindo um roadmap de estudos onde chegarei no NodeJS e enfim me capacitar como Fullstack Web Developer.
+➔ Conhecimento em métodos ágeis, planejamento de software e arquitetura de software.
+➔ Inglês intermediário proficiência B1.
+➔ Experiência profissional de 6 anos em atendimento ao cliente, prospecção, vendas internas e
+externas.
+➔ Vivência e manuseio com o programa MV hospitalar e CIGAM.
