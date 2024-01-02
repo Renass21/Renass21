@@ -38,4 +38,4 @@ no momento estou estudando ReactJS. Estou seguindo um roadmap de estudos onde ch
 ➔ Inglês intermediário proficiência B1.
 ➔ Experiência profissional de 6 anos em atendimento ao cliente, prospecção, vendas internas e
 externas.
-➔ Vivência e manuseio com o programa MV hospitalar e CIGAM.
+➔ Tenho vivência e manuseio com os programas MV hospitalar, ERP360 e CIGAM.
