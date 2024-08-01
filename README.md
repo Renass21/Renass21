@@ -24,18 +24,4 @@
 </div><br/>
 
 
-Sou estudante de Engenharia de software e atualmente estou na 15ª turma do Programa Starter Full
-Stack da Growdev.
-Meu objetivo é ingressar na área de desenvolvimento de software.
-Minhas Soft Skills são embasadas em trabalhar em equipe, facilidade em aprender, proatividade,
-agilidade, facilidade em se comunicar e habituado a ajudar solucionar problemas em conjunto.
 
-Hard Skills:
-
-➔ Conhecimento em HTML, CSS e Javascript, manipulação do Dom, consumo de API’s REST com Axios e Express, Bootstrap, Typescript e 
-no momento estou estudando ReactJS. Estou seguindo um roadmap de estudos onde chegarei no NodeJS e enfim me capacitar como Fullstack Web Developer.
-➔ Conhecimento em métodos ágeis, planejamento de software e arquitetura de software.
-➔ Inglês intermediário proficiência B1.
-➔ Experiência profissional de 6 anos em atendimento ao cliente, prospecção, vendas internas e
-externas.
-➔ Tenho vivência e manuseio com os programas MV hospitalar, ERP360 e CIGAM.
