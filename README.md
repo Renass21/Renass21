@@ -1,4 +1,4 @@
-### Olá! Eu sou o Renato dos Santos 🖖
+### Hi! I'm Renato dos Santos 🖖
 
 I'm a Software Quality Assurance (QA) Engineer based in Brazil, with a Bachelor's degree 
 in Software Engineering and over 2 years of experience in manual and automated testing. 
@@ -12,18 +12,15 @@ and accelerate delivery cycles.
   <img align= "center" alt= "PLAYWRIGHT"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
   <img align= "center" alt= "Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />  
 </div><br/>
-
 - **Languages:** 
 <div style="display: inline_block"><br/>
   <img align= "center" alt= "Typescript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align= "center" alt= "Javascript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 </div><br/>
-
 - **Dev & Tools:**
-
 <div style="display: inline_block"><br/>   
   <img align= "center" alt= "Jira"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> 
-  <img align= "center" alt= "TestRail"   height="50" width="50" src="https://cdn.simpleicons.org/testrail/65C1" />
+  <img align= "center" alt= "TestRail"   height="50" width="50" src="https://cdn.simpleicons.org/testrail/65C179" />
   <img align= "center" alt= "Node"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nodejs.svg" />
   <img align= "center" alt= "Postman"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" />
   <img align= "center" alt= "ReactJS"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />  
