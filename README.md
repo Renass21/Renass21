@@ -6,18 +6,17 @@ I specialize in building modern, reliable automation frameworks to ensure softwa
 and accelerate delivery cycles.
 
 ## 🛠️ Tech Stack & Tools
-
-- #Automation:
+#Automation:
 <div style="display: inline_block"><br/>
   <img align= "center" alt= "PLAYWRIGHT"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
   <img align= "center" alt= "Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />  
 </div><br/>
-- #Languages:
+#Languages:
 <div style="display: inline_block"><br/>
   <img align= "center" alt= "Typescript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align= "center" alt= "Javascript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 </div><br/>
-- #Dev & Tools:
+#Dev & Tools:
 <div style="display: inline_block"><br/>   
   <img align= "center" alt= "Jira"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> 
   <img align= "center" alt= "TestRail"   height="50" width="50" src="https://cdn.simpleicons.org/testrail/65C179" />
