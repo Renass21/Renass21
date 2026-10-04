@@ -12,7 +12,7 @@ and accelerate delivery cycles.
   <img align= "center" alt= "PLAYWRIGHT"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
   <img align= "center" alt= "Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />  
 </div><br/>
-- **Languages:** 
+- **Languages:**
 <div style="display: inline_block"><br/>
   <img align= "center" alt= "Typescript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align= "center" alt= "Javascript"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
